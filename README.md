@@ -1,6 +1,6 @@
 # Blood Vessel Segmentation - 3D Medical Imaging Project
 
-This repository contains my work for the Kaggle competition titled **"SenNet + HOA - Hacking the Human Vasculature in 3D"**. The goal of this project is to develop a robust machine learning model capable of segmenting blood vessels from 3D medical imaging data of human kidneys. Below, I describe the dataset, the preprocessing steps, the model architecture, training methodology, and results.
+This repository contains my work for the Kaggle competition titled **"SenNet + HOA - Hacking the Human Vasculature in 3D"**. The goal of this project is to develop a robust machine learning model capable of segmenting blood vessels from 3D medical imaging data of human kidneys. Below, I describe the dataset, the preprocessing steps, the model architecture, training methodology, and results (Project originally completed in December 2023. Uploaded to GitHub in October 2024 for portfolio purposes).
 
 ## Project Overview
 
