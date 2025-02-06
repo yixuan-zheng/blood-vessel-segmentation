@@ -65,7 +65,7 @@ This project has been an insightful journey in applying deep learning techniques
 
 - **Notebook (`Yixuan Zheng - blood_vessel_segmentation.ipynb`):** Contains all the code related to data preprocessing, model implementation, training, and evaluation.
 - **README (`README.md`):** Provides an in-depth explanation of the project, including background, methodology, model architecture, results, and insights gained.
-- - **Notebook (`Yixuan Zheng - blood_vessel_segmentation_rf_comparison.ipynb`):** Uses a Random Forest model for blood vessel segmentation, highlighting its limitations compared to the U-Net.
+- **Notebook (`Yixuan Zheng - blood_vessel_segmentation_rf_comparison.ipynb`):** Uses a Random Forest model for blood vessel segmentation, highlighting its limitations compared to the U-Net.
 
 ## How to Use This Repository
 
